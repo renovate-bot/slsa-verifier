@@ -2,7 +2,7 @@ module github.com/slsa-framework/slsa-verifier/v2
 
 go 1.21
 
-toolchain go1.21.6
+toolchain go1.22.4
 
 require (
 	github.com/docker/go v1.5.1-1
