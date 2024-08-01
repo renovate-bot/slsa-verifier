@@ -5,6 +5,6 @@
   },
   "devDependencies": {
     "markdown-toc": "1.2.0",
-    "renovate": "37.374.1"
+    "renovate": "38.17.1"
   }
 }
